@@ -1,0 +1,10 @@
+.table{
+  border: solid 1px #9955ff;
+}
+
+.table th td{
+    border-bottom: 1px solid #ddd ;
+}
+.table tr:hover{
+    background-color: #559900;
+}
